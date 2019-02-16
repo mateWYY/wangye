@@ -1,0 +1,29 @@
+body{
+  .header{
+    height: 100px;
+    background: #222328;
+    .header-box{
+      width: 1200px;
+      margin: 0 auto;
+      .icon{
+        position: relative;
+        top: 28px;
+      }
+      ul{
+        float: left;
+        li{
+          float: left;
+          a{
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}
+body,ul,li,a{
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

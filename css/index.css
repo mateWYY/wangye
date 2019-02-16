@@ -1,0 +1,23 @@
+body .header {
+  height: 100px;
+  background: #222328; }
+  body .header .header-box {
+    width: 1200px;
+    margin: 0 auto; }
+    body .header .header-box .icon {
+      position: relative;
+      top: 28px; }
+    body .header .header-box ul {
+      float: left; }
+      body .header .header-box ul li {
+        float: left; }
+        body .header .header-box ul li a {
+          color: #fff; }
+
+body, ul, li, a {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+/*# sourceMappingURL=index.css.map */
